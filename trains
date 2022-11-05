@@ -1,0 +1,9 @@
+1 | Lviv - Kiev | 5 |10:00|22:00|Lviv,10:00,10:15#Rohatyn,12:20,12:45#Sumy,14:15,14:35#Zhytomyr,15:50,17:25#London,19:30,19:50#Kiev,21:45#|
+1.1 | 5 | 178.5 | Shared | 22.07 , 23.07 , 12.08 |
+1.2 | 4 | 178.5 | Private | 22.07 , 23.07 , 12.08 |
+2 | Rohatyn - Odessa | 4 | 15.00 | 19.00 | Rohatyn , Ternopil , Paris , Bucharest , Kiev , Odessa |
+2.1 | 4 | 118.5 | Shared | 29.07,23.07,12.08 |
+2.2 | 3 | 1518.5 | Private | 28.07,23.07,12.08 |
+3 | Chernivtsi - Kiev | 3 | 12.00 | 17.00 | Chernivtsi , Rohatyn , Lviv , Sumy , Kharkiv , Donetsk , Kiev |
+3.1 | 3 | 108.5 | Shared | 20.07,23.07,12.08 |
+3.2 | 2 | 18.5 | Private | 27.07 , 23.07 , 12.08 |

@@ -1,0 +1,12 @@
+You can choose what you want to book: Hotel, plane ticket, or a train ticket.
+The system shoves the available destinations and information
+You choose what ticket or hotel you want and the booking saves to your account
+
+You have to create an account with username and password where the booking will save (it could also be random)
+The account will show all your bookings and the information about them
+Every booking will have a random id
+The bookings save to a file associated with your account
+You can delete a booking or change it
+The credit card information you input saves to your account
+All the hotels and destinations are saved in a file that we create
+After someone books the ticket the hotel or destination gets removed from the file
